@@ -16,9 +16,4 @@ The data sets can be downloaded as CSV files from the Federal Reserve Bank of St
    - Based on the analysis, the script concludes that there is a negative significant correlation between the unemployment rate and unfilled job vacancies.
    - Key statistical indicators such as intercept, coefficient, t-statistic, p-values, and diagnostic plots support this conclusion.
   
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## .gitignore
-This repository uses a `.gitignore` file to exclude unnecessary files from version control. It is configured to exclude common files for Python projects.
    
