@@ -1,4 +1,5 @@
 # Unemployment-JobVacancies-Analysis
+The following assignment script is part of the coursework completed in the lecture "Computational Economics $I$" at TU Chemnitz, presented by Prof. Dr. Heinrich. Comments within the script acknowledge the course context, and where applicable, specify instances where the code is developed based on provided course materials.
 
 ## Data Analysis - Unemployment Rate and Unfilled Job Vacancies
 
